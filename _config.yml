@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://fullbright.github.io
+baseurl: /bible-latex-site/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: A Bible typeset for study
+email: full3right@gmail.com
+description: "Ever needed a Bible for study notes taking ? We typeset one with margins for you. Available for download !"
 
 
 # Team names, titles and social links
@@ -63,4 +63,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
