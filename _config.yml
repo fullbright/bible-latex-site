@@ -10,56 +10,45 @@ description: "Ever needed a Bible for study notes taking ? We typeset one with m
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Full Bright
   pic: 1
-  position: Lead Designer
+  position: Developper, typeset in Latex
   social:
     - title: twitter
-      url: #
+      url: http://twitter.com/t0o1
     - title: facebook
-      url: #
+      url: fb.me/brightsoftwares
     - title: stack-overflow
       url: #
 
 - name: Larry Parker
   pic: 2
-  position: Lead Marketer
+  position: Developper, references
   social:
     - title: twitter
-      url: #
+      url: http://twitter.com/t0o1
     - title: facebook
-      url: #
+      url: fb.me/sergio.afanou
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/t0o1
   - title: facebook
-    url:
+    url: http://fb.me/brightsoftwares
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: #
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/fullbright/bible
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 31 rue Daniel Toussaint
+  - line: 94460 Valeton
 
 # Build settings
 markdown: kramdown
