@@ -1,5 +1,6 @@
 url: https://fullbright.github.io
-baseurl: /bible-latex-site/
+#baseurl: /bible-latex-site/
+#baseurl: /
 
 # Site settings
 title: A Bible typeset for study
