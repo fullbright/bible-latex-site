@@ -1,0 +1,15 @@
+---
+title: Bible French LSG
+subtitle: French Bible typeset using Latex
+layout: default
+modal-id: 2
+date: 2018-06-10
+img: bible_fr_plain_with_concordance.jpg
+thumbnail: bible_fr_plain_with_concordance-thumbnail.jpg
+alt: bible_lsg_french
+project-date: June 2018
+client: Typeset Bible project
+category: Latex typeset documents
+description: Our main European language is French. To test the study experience, we needed a Bible in French, with the margin to see how we can study and how efficient this model is. We were amazed how much we learn.
+
+---

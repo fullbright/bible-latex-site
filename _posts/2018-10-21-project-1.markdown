@@ -1,0 +1,15 @@
+---
+title: Bible LSG
+subtitle: Bible traduction Louis Segond
+layout: default
+modal-id: 1
+date: 2018-10-21
+img: bible_fr_plain.jpg
+thumbnail: bible_fr_plain-thumbnail.jpg
+alt: bible_lsg_french
+project-date: Early 2018
+client: Typeset Bible project
+category: Latex Typeset
+description: We typeset the first Bible using Latex. It was a KJV, in English. But shortly, we needed to have a Bible in French, so we looked and found a LSG Bible in French.
+
+---

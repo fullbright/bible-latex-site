@@ -1,0 +1,15 @@
+---
+title: Bible LSG French with margins
+subtitle: Bible Louis Segond with margins for notes
+layout: default
+modal-id: 3
+date: 2018-07-16
+img: bible_fr_plain_margins.jpg
+thumbnail: bible_fr_plain_margins.jpg
+alt: bible_french_with_marings
+project-date: August 2018
+client: Typeset Bible with Latex
+category: Latex typeset document
+description: We noticed that more material is needed to have an in depth study. We gathered some references and worked to add them to the typeset Bible. And the story goes on, as we discover more pattern in the Bible, as we continue studying...
+
+---
