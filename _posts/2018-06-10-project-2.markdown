@@ -1,6 +1,6 @@
 ---
 title: Bible French LSG
-subtitle: French Bible typeset using Latex
+subtitle: French Bible typeset using Latex.
 layout: default
 modal-id: 2
 date: 2018-06-10
