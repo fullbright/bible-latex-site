@@ -10,6 +10,7 @@ alt: bible_french_with_marings
 project-date: August 2018
 client: Typeset Bible with Latex
 category: Latex typeset document
+download_link: https://github.com/fullbright/bible/raw/master/projects/bible_fra_tufte/bible_fra_tufte_full.pdf 
 description: We noticed that more material is needed to have an in depth study. We gathered some references and worked to add them to the typeset Bible. And the story goes on, as we discover more pattern in the Bible, as we continue studying...
 
 ---

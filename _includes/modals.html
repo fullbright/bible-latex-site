@@ -18,18 +18,21 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                    <strong><a href="#">{{ post.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <strong><a href="#">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                <li>Feature:
+                                    <strong><a href="#">{{ post.category }}</a>
                                     </strong>
                                 </li>
                             </ul>
+                            <a href="{{ post.download_link }}">
+                                <button type="button" class="btn btn-primary"><i class="fa fa-check"></i> Download</button>
+                            </a>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

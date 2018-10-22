@@ -10,6 +10,7 @@ alt: bible_lsg_french
 project-date: Early 2018
 client: Typeset Bible project
 category: Latex Typeset
+download_link: https://github.com/fullbright/bible/raw/master/projects/bible/bible.pdf
 description: We typeset the first Bible using Latex. It was a KJV, in English. But shortly, we needed to have a Bible in French, so we looked and found a LSG Bible in French.
 
 ---

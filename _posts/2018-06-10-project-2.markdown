@@ -10,6 +10,7 @@ alt: bible_lsg_french
 project-date: June 2018
 client: Typeset Bible project
 category: Latex typeset documents
+download_link: https://github.com/fullbright/bible/raw/master/projects/bible_fra/bible_fra.pdf 
 description: Our main European language is French. To test the study experience, we needed a Bible in French, with the margin to see how we can study and how efficient this model is. We were amazed how much we learn.
 
 ---
